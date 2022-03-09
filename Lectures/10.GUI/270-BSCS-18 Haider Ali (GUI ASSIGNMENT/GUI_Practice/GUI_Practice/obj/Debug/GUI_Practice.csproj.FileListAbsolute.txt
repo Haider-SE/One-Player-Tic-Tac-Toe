@@ -1,0 +1,10 @@
+E:\Haider\University\Semester 4\Study in Lock Down\VP\Lectures\10.GUI\GUI_Practice\GUI_Practice\bin\Debug\GUI_Practice.exe.config
+E:\Haider\University\Semester 4\Study in Lock Down\VP\Lectures\10.GUI\GUI_Practice\GUI_Practice\bin\Debug\GUI_Practice.exe
+E:\Haider\University\Semester 4\Study in Lock Down\VP\Lectures\10.GUI\GUI_Practice\GUI_Practice\bin\Debug\GUI_Practice.pdb
+E:\Haider\University\Semester 4\Study in Lock Down\VP\Lectures\10.GUI\GUI_Practice\GUI_Practice\obj\Debug\GUI_Practice.csprojAssemblyReference.cache
+E:\Haider\University\Semester 4\Study in Lock Down\VP\Lectures\10.GUI\GUI_Practice\GUI_Practice\obj\Debug\GUI_Practice.Form1.resources
+E:\Haider\University\Semester 4\Study in Lock Down\VP\Lectures\10.GUI\GUI_Practice\GUI_Practice\obj\Debug\GUI_Practice.Properties.Resources.resources
+E:\Haider\University\Semester 4\Study in Lock Down\VP\Lectures\10.GUI\GUI_Practice\GUI_Practice\obj\Debug\GUI_Practice.csproj.GenerateResource.cache
+E:\Haider\University\Semester 4\Study in Lock Down\VP\Lectures\10.GUI\GUI_Practice\GUI_Practice\obj\Debug\GUI_Practice.csproj.CoreCompileInputs.cache
+E:\Haider\University\Semester 4\Study in Lock Down\VP\Lectures\10.GUI\GUI_Practice\GUI_Practice\obj\Debug\GUI_Practice.exe
+E:\Haider\University\Semester 4\Study in Lock Down\VP\Lectures\10.GUI\GUI_Practice\GUI_Practice\obj\Debug\GUI_Practice.pdb

@@ -1,0 +1,9 @@
+c:\users\asma\documents\visual studio 2015\Projects\GUI Practice_for Class\GUI Practice_for Class\bin\Debug\GUI Practice_for Class.exe.config
+c:\users\asma\documents\visual studio 2015\Projects\GUI Practice_for Class\GUI Practice_for Class\bin\Debug\GUI Practice_for Class.exe
+c:\users\asma\documents\visual studio 2015\Projects\GUI Practice_for Class\GUI Practice_for Class\bin\Debug\GUI Practice_for Class.pdb
+c:\users\asma\documents\visual studio 2015\Projects\GUI Practice_for Class\GUI Practice_for Class\obj\Debug\GUI Practice_for Class.csprojResolveAssemblyReference.cache
+c:\users\asma\documents\visual studio 2015\Projects\GUI Practice_for Class\GUI Practice_for Class\obj\Debug\GUI_Practice_for_Class.Main_frm.resources
+c:\users\asma\documents\visual studio 2015\Projects\GUI Practice_for Class\GUI Practice_for Class\obj\Debug\GUI_Practice_for_Class.Properties.Resources.resources
+c:\users\asma\documents\visual studio 2015\Projects\GUI Practice_for Class\GUI Practice_for Class\obj\Debug\GUI Practice_for Class.csproj.GenerateResource.Cache
+c:\users\asma\documents\visual studio 2015\Projects\GUI Practice_for Class\GUI Practice_for Class\obj\Debug\GUI Practice_for Class.exe
+c:\users\asma\documents\visual studio 2015\Projects\GUI Practice_for Class\GUI Practice_for Class\obj\Debug\GUI Practice_for Class.pdb

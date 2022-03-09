@@ -1,0 +1,7 @@
+E:\Haider\University\Semester 4\Study in Lock Down\VP\Lectures\Inheritance\InheritancePractice\InheritancePractice\bin\Debug\InheritancePractice.exe.config
+E:\Haider\University\Semester 4\Study in Lock Down\VP\Lectures\Inheritance\InheritancePractice\InheritancePractice\bin\Debug\InheritancePractice.exe
+E:\Haider\University\Semester 4\Study in Lock Down\VP\Lectures\Inheritance\InheritancePractice\InheritancePractice\bin\Debug\InheritancePractice.pdb
+E:\Haider\University\Semester 4\Study in Lock Down\VP\Lectures\Inheritance\InheritancePractice\InheritancePractice\obj\Debug\InheritancePractice.csprojAssemblyReference.cache
+E:\Haider\University\Semester 4\Study in Lock Down\VP\Lectures\Inheritance\InheritancePractice\InheritancePractice\obj\Debug\InheritancePractice.csproj.CoreCompileInputs.cache
+E:\Haider\University\Semester 4\Study in Lock Down\VP\Lectures\Inheritance\InheritancePractice\InheritancePractice\obj\Debug\InheritancePractice.exe
+E:\Haider\University\Semester 4\Study in Lock Down\VP\Lectures\Inheritance\InheritancePractice\InheritancePractice\obj\Debug\InheritancePractice.pdb

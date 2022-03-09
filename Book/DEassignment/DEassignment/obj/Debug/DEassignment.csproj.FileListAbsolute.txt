@@ -1,0 +1,7 @@
+C:\Users\ahmed\source\repos\DEassignment\DEassignment\bin\Debug\DEassignment.exe.config
+C:\Users\ahmed\source\repos\DEassignment\DEassignment\bin\Debug\DEassignment.exe
+C:\Users\ahmed\source\repos\DEassignment\DEassignment\bin\Debug\DEassignment.pdb
+C:\Users\ahmed\source\repos\DEassignment\DEassignment\obj\Debug\DEassignment.csprojAssemblyReference.cache
+C:\Users\ahmed\source\repos\DEassignment\DEassignment\obj\Debug\DEassignment.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\DEassignment\DEassignment\obj\Debug\DEassignment.exe
+C:\Users\ahmed\source\repos\DEassignment\DEassignment\obj\Debug\DEassignment.pdb

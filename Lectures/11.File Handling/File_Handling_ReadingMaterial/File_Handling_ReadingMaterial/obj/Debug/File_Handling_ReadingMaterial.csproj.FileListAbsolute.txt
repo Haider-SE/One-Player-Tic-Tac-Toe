@@ -1,0 +1,19 @@
+c:\users\asma\documents\visual studio 2015\Projects\File_Handling_ReadingMaterial\File_Handling_ReadingMaterial\bin\Debug\File_Handling_ReadingMaterial.exe.config
+c:\users\asma\documents\visual studio 2015\Projects\File_Handling_ReadingMaterial\File_Handling_ReadingMaterial\bin\Debug\File_Handling_ReadingMaterial.exe
+c:\users\asma\documents\visual studio 2015\Projects\File_Handling_ReadingMaterial\File_Handling_ReadingMaterial\bin\Debug\File_Handling_ReadingMaterial.pdb
+c:\users\asma\documents\visual studio 2015\Projects\File_Handling_ReadingMaterial\File_Handling_ReadingMaterial\obj\Debug\File_Handling_ReadingMaterial.csprojResolveAssemblyReference.cache
+c:\users\asma\documents\visual studio 2015\Projects\File_Handling_ReadingMaterial\File_Handling_ReadingMaterial\obj\Debug\File_Handling_ReadingMaterial.Form1.resources
+c:\users\asma\documents\visual studio 2015\Projects\File_Handling_ReadingMaterial\File_Handling_ReadingMaterial\obj\Debug\File_Handling_ReadingMaterial.Properties.Resources.resources
+c:\users\asma\documents\visual studio 2015\Projects\File_Handling_ReadingMaterial\File_Handling_ReadingMaterial\obj\Debug\File_Handling_ReadingMaterial.csproj.GenerateResource.Cache
+c:\users\asma\documents\visual studio 2015\Projects\File_Handling_ReadingMaterial\File_Handling_ReadingMaterial\obj\Debug\File_Handling_ReadingMaterial.exe
+c:\users\asma\documents\visual studio 2015\Projects\File_Handling_ReadingMaterial\File_Handling_ReadingMaterial\obj\Debug\File_Handling_ReadingMaterial.pdb
+E:\Haider\University\Semester 4\Study in Lock Down\VP\Lectures\11.File Handling\File_Handling_ReadingMaterial\File_Handling_ReadingMaterial\bin\Debug\File_Handling_ReadingMaterial.exe.config
+E:\Haider\University\Semester 4\Study in Lock Down\VP\Lectures\11.File Handling\File_Handling_ReadingMaterial\File_Handling_ReadingMaterial\bin\Debug\File_Handling_ReadingMaterial.exe
+E:\Haider\University\Semester 4\Study in Lock Down\VP\Lectures\11.File Handling\File_Handling_ReadingMaterial\File_Handling_ReadingMaterial\bin\Debug\File_Handling_ReadingMaterial.pdb
+E:\Haider\University\Semester 4\Study in Lock Down\VP\Lectures\11.File Handling\File_Handling_ReadingMaterial\File_Handling_ReadingMaterial\obj\Debug\File_Handling_ReadingMaterial.csprojAssemblyReference.cache
+E:\Haider\University\Semester 4\Study in Lock Down\VP\Lectures\11.File Handling\File_Handling_ReadingMaterial\File_Handling_ReadingMaterial\obj\Debug\File_Handling_ReadingMaterial.Form1.resources
+E:\Haider\University\Semester 4\Study in Lock Down\VP\Lectures\11.File Handling\File_Handling_ReadingMaterial\File_Handling_ReadingMaterial\obj\Debug\File_Handling_ReadingMaterial.Properties.Resources.resources
+E:\Haider\University\Semester 4\Study in Lock Down\VP\Lectures\11.File Handling\File_Handling_ReadingMaterial\File_Handling_ReadingMaterial\obj\Debug\File_Handling_ReadingMaterial.csproj.GenerateResource.cache
+E:\Haider\University\Semester 4\Study in Lock Down\VP\Lectures\11.File Handling\File_Handling_ReadingMaterial\File_Handling_ReadingMaterial\obj\Debug\File_Handling_ReadingMaterial.csproj.CoreCompileInputs.cache
+E:\Haider\University\Semester 4\Study in Lock Down\VP\Lectures\11.File Handling\File_Handling_ReadingMaterial\File_Handling_ReadingMaterial\obj\Debug\File_Handling_ReadingMaterial.exe
+E:\Haider\University\Semester 4\Study in Lock Down\VP\Lectures\11.File Handling\File_Handling_ReadingMaterial\File_Handling_ReadingMaterial\obj\Debug\File_Handling_ReadingMaterial.pdb

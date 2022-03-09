@@ -1,0 +1,13 @@
+C:\Users\mahnoor asif\source\repos\Event Assignment\Event Assignment\obj\Debug\Event Assignment.csprojAssemblyReference.cache
+C:\Users\mahnoor asif\source\repos\Event Assignment\Event Assignment\bin\Debug\Event Assignment.exe.config
+C:\Users\mahnoor asif\source\repos\Event Assignment\Event Assignment\bin\Debug\Event Assignment.exe
+C:\Users\mahnoor asif\source\repos\Event Assignment\Event Assignment\bin\Debug\Event Assignment.pdb
+C:\Users\mahnoor asif\source\repos\Event Assignment\Event Assignment\obj\Debug\Event Assignment.exe
+C:\Users\mahnoor asif\source\repos\Event Assignment\Event Assignment\obj\Debug\Event Assignment.pdb
+C:\Users\ahmed\source\repos\Event Assignment\bin\Debug\Event Assignment.exe.config
+C:\Users\ahmed\source\repos\Event Assignment\bin\Debug\Event Assignment.exe
+C:\Users\ahmed\source\repos\Event Assignment\bin\Debug\Event Assignment.pdb
+C:\Users\ahmed\source\repos\Event Assignment\obj\Debug\Event Assignment.csprojAssemblyReference.cache
+C:\Users\ahmed\source\repos\Event Assignment\obj\Debug\Event Assignment.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\Event Assignment\obj\Debug\Event Assignment.exe
+C:\Users\ahmed\source\repos\Event Assignment\obj\Debug\Event Assignment.pdb

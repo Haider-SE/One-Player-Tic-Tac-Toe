@@ -1,0 +1,7 @@
+E:\Haider\University\Semester 4\Study in Lock Down\VP\270 E2 BSCS 18 Haider Ali\Event Assignment\Event Assignment\bin\Debug\Event Assignment.exe.config
+E:\Haider\University\Semester 4\Study in Lock Down\VP\270 E2 BSCS 18 Haider Ali\Event Assignment\Event Assignment\bin\Debug\Event Assignment.exe
+E:\Haider\University\Semester 4\Study in Lock Down\VP\270 E2 BSCS 18 Haider Ali\Event Assignment\Event Assignment\bin\Debug\Event Assignment.pdb
+E:\Haider\University\Semester 4\Study in Lock Down\VP\270 E2 BSCS 18 Haider Ali\Event Assignment\Event Assignment\obj\Debug\Event Assignment.csprojAssemblyReference.cache
+E:\Haider\University\Semester 4\Study in Lock Down\VP\270 E2 BSCS 18 Haider Ali\Event Assignment\Event Assignment\obj\Debug\Event Assignment.csproj.CoreCompileInputs.cache
+E:\Haider\University\Semester 4\Study in Lock Down\VP\270 E2 BSCS 18 Haider Ali\Event Assignment\Event Assignment\obj\Debug\Event Assignment.exe
+E:\Haider\University\Semester 4\Study in Lock Down\VP\270 E2 BSCS 18 Haider Ali\Event Assignment\Event Assignment\obj\Debug\Event Assignment.pdb
